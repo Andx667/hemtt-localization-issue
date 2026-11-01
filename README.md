@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="HEMTT Localization Issue logo">
+</p>
+
 # hemtt-localization-issue
 
 Reusable GitHub workflow that runs `hemtt localization coverage` and keeps the result in a single GitHub issue.
